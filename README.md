@@ -30,4 +30,7 @@ https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS
 - GDP per capita:
 https://www.kaggle.com/nitishabharathi/gdp-per-capita-all-countries
 
+- better life index:
+https://www.oecd-ilibrary.org/social-issues-migration-health/data/oecd-social-and-welfare-statistics/better-life-index-edition-2019-1_74ade212-en
+
 [Learn more about creating GitLab projects.](https://docs.gitlab.com/ee/gitlab-basics/create-project.html)
