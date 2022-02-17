@@ -1,4 +1,13 @@
-# Sample GitLab Project
+
+<h3>
+    Installation
+</h3>
+<ol>
+    <li><code>pip install -r requirements.txt</code></li>
+    <li><code>jupyter-notebook pipeline.ipynb</code></li>
+</ol>
+
+# Data Science Prject: Influences on Covid Vaccination Rates
 
 Considering the rather low COVID-19 vaccination rate in Germany, Switzerland and Austria compared to other European countries the goal of this project is to figure out which factors influence the COVID-19 vaccination rate.
 
