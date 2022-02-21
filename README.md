@@ -1,6 +1,5 @@
-
 <h3>
-    Installation
+    Install and Run
 </h3>
 <ol>
     <li><code>pip install -r requirements.txt</code></li>
