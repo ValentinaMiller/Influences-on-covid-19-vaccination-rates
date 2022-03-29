@@ -54,16 +54,16 @@ Please have a look at the pipeline for the code.
 
 Figure 1 reveals a high positive linear correlation between the share of people
 fully vaccinated and the gross domestic product per capita with a correlation
-coefficient of 0.701 and p-value of 7.54·10 −15 , meaning it is very likely that these
+coefficient of 0.701 and p-value of 7.54x10^−15 , meaning it is very likely that these
 two variables are correlated. The same is shown by Figure 2 for the relationship
 between the share of people fully vaccinated and the life expectancy. These two
 variables have an even higher correlation coefficient of 0.782 and also a small
-p-value of 1.29·10 −07 .
+p-value of 1.29x10^−07 .
 Figure 3 shows a negative linear correlation between the share of people fully
 vaccinated and the working hours of employees with a correlation coefficient of
 -0.48. The correlation is slightly weaker than for the previous two factors, but
 the small p-value of 0.006 indicates that correlation is very likely.
-For the following factors, shown by figures 4-9, the p-value was always higher
+For the other factors the p-value was always higher
 than 5%, which makes a correlation between the share of people fully vaccinated
 and the respective factors very unlikely.
 
@@ -145,12 +145,9 @@ https://www.kaggle.com/uniquekale/covid-19-data-analysis-2021/data
 ### political regimes
 https://sites.psu.edu/dictators/
 
-## 5. How to install and run the project
+## 6. How to install and run the project
 
 <ol>
     <li><code>pip install -r requirements.txt</code></li>
     <li><code>jupyter-notebook pipeline.ipynb</code></li>
 </ol>
-
-
-[Learn more about creating GitLab projects.](https://docs.gitlab.com/ee/gitlab->
