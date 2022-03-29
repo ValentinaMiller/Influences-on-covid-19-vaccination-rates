@@ -1,44 +1,28 @@
-<h3>
-    Install and Run
-</h3>
+# University Data Science Project: Influences on Covid Vaccination Rates
+
+## 1. Introduction
+Considering the rather low COVID-19 vaccination rate in Germany, Switzerland and Austria compared to other European countries the goal of this project is to figure out which factors influence the COVID-19 vaccination rate.
+
+## 2. Installation and Running the project
 <ol>
     <li><code>pip install -r requirements.txt</code></li>
     <li><code>jupyter-notebook pipeline.ipynb</code></li>
 </ol>
 
-# Data Science Project: Influences on Covid Vaccination Rates
+## 4. data sources 
+### secondary & tertiary education, trust in government, unemployment, better life index
+https://data.oecd.org
 
-Considering the rather low COVID-19 vaccination rate in Germany, Switzerland and Austria compared to other European countries the goal of this project is to figure out which factors influence the COVID-19 vaccination rate.
-
-Sources of data on:
-
---- healthiness, secondary and tertiary education, ...?
-
-- COVID-19 vaccination rate:
-https://www.kaggle.com/rsrishav/covid-vaccination-dataset
-
-- covid deaths per 1000000 inhabitants
-https://www.kaggle.com/uniquekale/covid-19-data-analysis-2021/data
-
-- political regime
-https://sites.psu.edu/dictators/
-
-- secondary education:
-https://data.oecd.org/students/secondary-graduation-rate.htm#indicator-chart
-
-- tertiary education:
-https://data.oecd.org/students/tertiary-graduation-rate.htm#indicator-chart
-
-- trust in government:
-https://data.oecd.org/gga/trust-in-government.htm
-
-- unemployment:
-https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS
-
-- GDP per capita:
+### GDP per capita:
 https://www.kaggle.com/nitishabharathi/gdp-per-capita-all-countries
 
-- better life index:
-https://www.oecd-ilibrary.org/social-issues-migration-health/data/oecd-social-and-welfare-statistics/better-life-index-edition-2019-1_74ade212-en
+### COVID-19 vaccination rate:
+https://www.kaggle.com/rsrishav/covid-vaccination-dataset
+
+### Covid-19 deaths per 1000000 inhabitants
+https://www.kaggle.com/uniquekale/covid-19-data-analysis-2021/data
+
+### political regimes
+https://sites.psu.edu/dictators/
 
 [Learn more about creating GitLab projects.](https://docs.gitlab.com/ee/gitlab-basics/create-project.html)
