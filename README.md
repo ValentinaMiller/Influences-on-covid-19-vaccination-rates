@@ -67,12 +67,18 @@ For the following factors, shown by figures 4-9, the p-value was always higher
 than 5%, which makes a correlation between the share of people fully vaccinated
 and the respective factors very unlikely.
 
+Figure 1: Correlation between share of population vaccinated against COVID-19 and GDP per capita
 
 ![Figure 1: Correlation between share of population vaccinated against COVID-
 19 and GDP per capita](gdp.png) 
+
 Correlation Coefficient and p-Value:
 0.7006793183652773, 7.542031256159133e-15
 
+
+
+Figure 2: Correlation between share of population vaccinated against COVID-
+19 and life expectancy
 
 ![Figure 2: Correlation between share of population vaccinated against COVID-
 19 and life expectancy](life_expectancy.png)
@@ -81,6 +87,10 @@ Correlation Coefficient and p-Value:
 Correlation Coefficient and p-Value: 
 0.7815731285293231, 1.288725407220812e-07
 
+
+
+Figure 3: Correlation between share of population vaccinated against COVID-
+19 and working long hours
 
 ![Figure 3: Correlation between share of population vaccinated against COVID-
 19 and working long hours](working_hours.png)
