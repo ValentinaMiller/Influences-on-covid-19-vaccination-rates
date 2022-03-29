@@ -69,17 +69,26 @@ and the respective factors very unlikely.
 
 
 ![Figure 1: Correlation between share of population vaccinated against COVID-
-19 and GDP per capita](gdp.jpg) 
+19 and GDP per capita](gdp.png) 
 Correlation Coefficient and p-Value:
 0.7006793183652773, 7.542031256159133e-15
+
+
 ![Figure 2: Correlation between share of population vaccinated against COVID-
-19 and life expectancy](life_expectancy.jpg)
+19 and life expectancy](life_expectancy.png)
+
+
 Correlation Coefficient and p-Value: 
 0.7815731285293231, 1.288725407220812e-07
+
+
 ![Figure 3: Correlation between share of population vaccinated against COVID-
 19 and working long hours](working_hours.png)
+
+
 Correlation Coefficient and p-Value:
 -0.4823137806158691, 0.005999820173321409
+
 ## 4. Discussion
 
 The ongoing COVID-19 pandemic has cost the lives of many people and also
@@ -109,8 +118,6 @@ therefore have to work more to make a living. That’s why another valuable
 investigation would be to look into the influences of vaccination rates for groups
 of countries separately, for example, to examine which socio-economic factors
 are of relevance within a group of richer countries with a high GDP versus within a group of poorer countries with a lower GDP.
-
-
 
 ## 5. data and data sources 
 ### secondary & tertiary education, trust in government, unemployment, better life index
